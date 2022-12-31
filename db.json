@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "task": "sleep",
+      "startTime": "15:43",
+      "endTime": "15:43",
+      "category": "Family",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "task": "sleeping",
+      "startTime": "16:04",
+      "endTime": "20:02",
+      "category": "Office",
+      "status": "Pending",
+      "id": 2
+    }
+  ]
+}
