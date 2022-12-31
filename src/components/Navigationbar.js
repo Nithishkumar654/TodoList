@@ -20,7 +20,7 @@ function Navigationbar() {
       <li className="nav-item">
         <NavLink className="nav-link" style={({isActive})=>{return isActive?activeLink:inactiveLink}} to="/">AddTask</NavLink>
       </li>
-      <li className="nav-item">
+      <li className="nav-item ">
         <NavLink className="nav-link" style={({isActive})=>{return isActive?activeLink:inactiveLink}} to="/tasklist">TaskList</NavLink>
       </li>
     </ul>
